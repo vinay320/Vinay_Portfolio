@@ -1,4 +1,3 @@
-import logo from "../assets/kevinRushLogo.png";
 import {
   FaLinkedin,
   FaGithub,
